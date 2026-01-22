@@ -1,2 +1,2 @@
-./output/
-./output/2026-01-15/
+# Ignore the output directory
+output/
